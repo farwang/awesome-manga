@@ -1,7 +1,7 @@
 # MangaSites
 Useful Manga sites for Manga fans.
 
-## Use frequently:
+## Frequently Used:
 
 - [はるか夢の址](http://haruka-yumenoato.net/manga)
 - [dl-manga.com](http://dl-manga.com/)
@@ -18,6 +18,10 @@ Useful Manga sites for Manga fans.
 ## Others:
 
 - [ソク読み](http://sokuyomi.jp/)
-
+- [BookLive](https://booklive.jp/)
+- [マンガ図書館Z](https://www.mangaz.com/)
+- [coma](http://www.cmoa.jp/)
+- [YaHoo!ブックストア](https://bookstore.yahoo.co.jp/)
+- [楽天ブックス](http://books.rakuten.co.jp/)
 
 
