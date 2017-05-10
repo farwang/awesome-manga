@@ -1,14 +1,12 @@
-# MangaSites
-Useful Manga sites for Manga fans.
+# 漫画网站
+漫画爱好者的常用网站
 
-[中文版](README_CN.md)
-
-## Frequently Used:
+## 常用:
 
 - [はるか夢の址](http://haruka-yumenoato.net/manga)
 - [dl-manga.com](http://dl-manga.com/)
 
-## Online Manga:
+## 在线漫画:
 
 - [pixivコミック](https://comic.pixiv.net)
 - [Cycomics サイコミ](https://cycomi.com)
@@ -17,7 +15,7 @@ Useful Manga sites for Manga fans.
 - [LINE マンガ](https://manga.line.me/)
 - [ComicWalker](http://comic-walker.com)
 
-## Others:
+## 其他:
 
 - [ソク読み](http://sokuyomi.jp/)
 - [BookLive](https://booklive.jp/)
