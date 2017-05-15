@@ -14,6 +14,7 @@
 - [ニコニコ静画](http://seiga.nicovideo.jp/manga/)
 - [LINE マンガ](https://manga.line.me/)
 - [ComicWalker](http://comic-walker.com)
+- [ネタバレ漫画スポイラー](http://manga-spoiler.com/)
 
 ## 其他:
 
