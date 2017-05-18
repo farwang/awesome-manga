@@ -7,6 +7,7 @@ Useful Manga sites for Manga fans.
 
 - [はるか夢の址](http://haruka-yumenoato.net/manga)
 - [dl-manga.com](http://dl-manga.com/)
+- [Nyaa](https://nyaa.si/)
 
 ## Online Manga:
 
