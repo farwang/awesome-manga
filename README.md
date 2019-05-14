@@ -3,11 +3,22 @@
 > 漫画爱好者的实用资源合集
 
 - [在线阅读](#在线阅读)
+  - [国内正版](#国内正版)
+  - [日本生肉](#日本生肉)
 - [试读&购买](#试读购买)
+  - [日本代购](#日本代购)
 - [情报](#情报)
   - [数据库](#数据库)
+- [免费](#免费)
 
 ## 在线阅读
+
+#### 国内正版
+
+- [哔哩哔哩漫画](http://manga.bilibili.com) - App
+- [布卡漫画](http://www.buka.cn/) - App
+
+#### 日本生肉
 
 - [少年ジャンプ+](https://shonenjumpplus.com)
 - [となりのヤングジャンプ](https://tonarinoyj.jp)
@@ -72,6 +83,7 @@
 - [FOD](http://fod.fujitv.co.jp/s/books/)
 - [Renta!](https://renta.papy.co.jp)
 - [マガジンWALKER](https://magazinewalker.jp)
+- [BOOK☆WALKER](https://bookwalker.jp)
 - [マンガ図書館Z](https://www.mangaz.com)
 - [honto](https://honto.jp)
 - [music.jp](https://music-book.jp)
@@ -84,6 +96,12 @@
 - [ソク読み](http://sokuyomi.jp)
 - [めっちゃコミック](https://sp.comics.mecha.cc)
 - [ジャンプBOOKストア](https://play.google.com/store/apps/details?id=com.access_company.android.sh_jumpstore) - App
+
+#### 日本代购
+
+- [任你购](https://rennigou.net/)
+- [魔法集市玛沙多拉](http://www.masadora.net/)
+- [淘宝](https://www.taobao.com/)
 
 ## 情报
 
@@ -110,4 +128,23 @@
 - [漫画ランキング](https://www.mangazenkan.com/ranking/)
 - [年代流行](https://nendai-ryuukou.com/comic.html)
 
-### ~~[免费](free.md)~~
+### 免费
+
+- [动漫之家](https://manhua.dmzj.com)
+  - [ComicRead](https://greasyfork.org/zh-CN/scripts/374903-comicread) - 辅助阅读的Tampermonkey脚本 [github仓库](https://github.com/hymbz/ComicReadScript)
+- [Nyaa](https://nyaa.si) - bt下载站
+- [13DL.NET](http://13dl.net) - 生肉漫画、小说下载站
+- [A-zmanga](http://www.a-zmanga.net)
+- [Longyp.com](https://www.longyp.com)
+- [zip-rar.com](http://www.zip-rar.com)
+- [zip-all.com](https://zip-all.com)
+- [rawmangazip.com](http://rawmangazip.com)
+- [manga-zip.net](http://manga-zip.net)
+- [ss-zip.com](https://ss-zip.com)
+- [木薯牛网盘中转站](https://www.mushuniu.com/files) - 网盘中转站
+
+#### 已失效
+
+- ~~[はるか夢の址](http://haruka-yumenoato.net/manga)~~
+- ~~[漫画村](http://mangamura.org)~~
+- ~~[dl-manga.com](http://dl-manga.com)~~
