@@ -9,6 +9,7 @@
   - [日本代购](#日本代购)
 - [情报](#情报)
   - [数据库](#数据库)
+- [投稿](#投稿)
 - [免费](#免费)
 
 ## 在线阅读
@@ -20,7 +21,9 @@
 
 #### 日本生肉
 
-- [少年ジャンプ+](https://shonenjumpplus.com)
+- [少年ジャンプ+](https://shonenjumpplus.com) \*推荐\*
+- [コミックDAYS](https://comic-days.com) \*推荐\*
+  - ヤングマガジン、モーニング、アフタヌーン、イブニング、Kiss、BE・LOVE
 - [となりのヤングジャンプ](https://tonarinoyj.jp)
 - [ふんわりジャンプ](http://www.funwarijump.jp)
 - [pixivコミック](https://comic.pixiv.net)
@@ -44,13 +47,11 @@
 - [やわらかスピリッツ](http://yawaspi.com)
 - [ゼロサムオンライン](http://online.ichijinsha.co.jp)
 - [まんがライフWIN](http://mangalifewin.takeshobo.co.jp)
-- [コミックDAYS](https://comic-days.com)
 - [マンガボックス](https://www.mangabox.me)
 - [webエース](https://web-ace.jp)
 - [コミックNew type](https://comic.webnewtype.com)
 - [トーチ](http://www.to-ti.in)
 - [電脳マヴォ](http://mavo.takekuma.jp)
-- [講談社コミックプラス](http://kc.kodansha.co.jp)
 - [最前線](https://sai-zen-sen.jp)
 - [スキマ](https://www.sukima.me)
 - [リードカフェ](http://leedcafe.com)
@@ -71,6 +72,8 @@
 ## 试读&购买
 
 - [Amazon](https://www.amazon.co.jp)
+- [DAYSもっとプレミアム](https://comic-days.com/premium) \*推荐\*
+  - 每月960円订阅13本杂志
 - [ebook japan](https://www.ebookjapan.jp)
 - [animate Bookstore](https://www.animatebookstore.com)
 - [BookLive!](https://booklive.jp)
@@ -106,8 +109,11 @@
 ## 情报
 
 - [SMANGA 集英社](http://www.s-manga.net)
+- [講談社コミックプラス](http://kc.kodansha.co.jp)
 - [電撃](http://dengeki.com/comics/)
 - [芳文社](http://houbunsha.co.jp)
+- [一迅社WEB](http://www.ichijinsha.co.jp)
+- [まんがタイムWeb](https://manga-time.com)
 - [まんがタイムきらら](http://www.dokidokivisual.com)
 - [白泉社](https://www.hakusensha.co.jp)
 - [SQUARE ENIX](https://magazine.jp.square-enix.com)
@@ -115,7 +121,7 @@
 - [このマンガがすごい!WEB](http://konomanga.jp)
 - [Web漫画アンテナ](http://webcomics.jp)
 - [Web漫画速報](http://webmanga.info)
-- [ベルアラート](https://play.google.com/store/apps/details?id=com.shopbell.bellalert) - App
+- [ベルアラート](https://play.google.com/store/apps/details?id=com.shopbell.bellalert) - App \*推荐\*
 - [漫画新刊情報](https://play.google.com/store/apps/details?id=manga.news.info) - App
 - [新刊ウォッチ](https://play.google.com/store/apps/details?id=com.straycatapp.newbook_watch) - App
 - [蔵書マネージャー](https://play.google.com/store/apps/details?id=com.bsy_web.bookmanager) - App
@@ -128,20 +134,28 @@
 - [漫画ランキング](https://www.mangazenkan.com/ranking/)
 - [年代流行](https://nendai-ryuukou.com/comic.html)
 
+## 投稿
+
+- [マンナビ](https://mannavi.net/) - 漫画新人投稿导航
+- [ジャンプ ルーキー!](https://rookie.shonenjump.com/) - Jump Rookie
+<!-- TODO The Road to Mangaka -->
+
 ### 免费
 
 - [动漫之家](https://manhua.dmzj.com)
   - [ComicRead](https://greasyfork.org/zh-CN/scripts/374903-comicread) - 辅助阅读的Tampermonkey脚本 [github仓库](https://github.com/hymbz/ComicReadScript)
 - [Nyaa](https://nyaa.si) - bt下载站
-- [13DL.NET](http://13dl.net) - 生肉漫画、小说下载站
+- [13DL.NET](http://13dl.net) - 生肉漫画、小说下载站 \*推荐\*
 - [A-zmanga](http://www.a-zmanga.net)
 - [Longyp.com](https://www.longyp.com)
 - [zip-rar.com](http://www.zip-rar.com)
-- [zip-all.com](https://zip-all.com)
+- [manga-download.com](https://manga-download.com)
 - [rawmangazip.com](http://rawmangazip.com)
 - [manga-zip.net](http://manga-zip.net)
 - [ss-zip.com](https://ss-zip.com)
-- [木薯牛网盘中转站](https://www.mushuniu.com/files) - 网盘中转站
+- [木薯牛网盘中转站](https://www.mushuniu.com/files) - 网盘中转站 \*推荐\*
+- [思飞网盘中转站](http://www.dsphere.info) - 网盘中转站
+- [免费网盘中转站整理](http://usepremium.blinkweb.com)
 
 #### 已失效
 
