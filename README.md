@@ -28,6 +28,7 @@ https://www.zhihu.com/question/264488531/answer/768877164)
 
 > #### 参考
 > - [新しい漫画村の代わりが見つかる！後継違法サイトと安全に漫画を無料で読む方法まとめ](https://www.funwarijump.jp/mangamura-kawari2/)
+> - [Web漫画アンテナ 対応サイト一覧](https://webcomics.jp/site)
 
 - [少年ジャンプ+](https://shonenjumpplus.com) \*推荐\*
 - [コミックDAYS](https://comic-days.com) \*推荐\*
