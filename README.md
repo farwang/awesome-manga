@@ -16,21 +16,26 @@
 
 #### 国内正版
 
-- [哔哩哔哩漫画](http://manga.bilibili.com) - App
-- [布卡漫画](http://www.buka.cn/) - App
+- [哔哩哔哩漫画](http://manga.bilibili.com)
+- [漫番漫画](http://www.myfcomic.com/)
+- [布卡漫画](http://www.buka.cn/)
+- [快看漫画](https://www.kuaikanmanhua.com/)
+
+> - [国内漫画平台将会如何演变？- 知乎](
+https://www.zhihu.com/question/264488531/answer/768877164)
 
 #### 日本生肉
 
+> #### 参考
+> - [新しい漫画村の代わりが見つかる！後継違法サイトと安全に漫画を無料で読む方法まとめ](https://www.funwarijump.jp/mangamura-kawari2/)
+
 - [少年ジャンプ+](https://shonenjumpplus.com) \*推荐\*
 - [コミックDAYS](https://comic-days.com) \*推荐\*
-  - ヤングマガジン、モーニング、アフタヌーン、イブニング、Kiss、BE・LOVE
 - [となりのヤングジャンプ](https://tonarinoyj.jp)
-- [ふんわりジャンプ](http://www.funwarijump.jp)
 - [pixivコミック](https://comic.pixiv.net)
 - [Cycomics サイコミ](https://cycomi.com)
 - [LINE マンガ](https://manga.line.me)
 - [COMIC FUZ](https://comic-fuz.com/)
-  - 週刊漫画TIMES、まんがタイムきらら、まんがタイムきららMAX、まんがタイムきららキャラット、まんがタイムきららフォワード、花音、kyapi！
 - [COMIC メテオ](https://comic-meteor.jp)
 - [ぜにょん](http://www.zenyon.jp)
 - [アルファポリス - 電網浮遊都市 -](https://www.alphapolis.co.jp)
@@ -74,9 +79,19 @@
 
 ## 试读&购买
 
+> #### 参考
+> - [電子書籍サイトおすすめな選び方 29社の口コミ比較](https://www.funwarijump.jp/ebook-comparison1/)
+
 - [Amazon](https://www.amazon.co.jp)
 - [DAYSもっとプレミアム](https://comic-days.com/premium) \*推荐\*
   - 每月960円订阅13本杂志
+  - ヤングマガジン、モーニング、アフタヌーン、イブニング、Kiss、BE・LOVE
+- [COMIC FUZ 月額プラン](https://comic-fuz.com/monthly_plan)
+  - 每月480円订阅芳文社5本杂志
+  - 週刊漫画TIMES、まんがタイムきらら、まんがタイムきららMAX、まんがタイムきららキャラット、まんがタイムきららフォワード、花音、kyapi！
+- [ジャンプBOOKストア 定期購読](http://jumpbookstore.com/ext/subscription/index.html)
+  - 每月980円订阅週刊少年ジャンプ、ジャンプGIGA
+  - 週刊少年ジャンプ、ジャンプGIGA、ジャンプSQ、ウルトラジャンプ
 - [ebook japan](https://www.ebookjapan.jp)
 - [animate Bookstore](https://www.animatebookstore.com)
 - [BookLive!](https://booklive.jp)
@@ -116,6 +131,7 @@
 - [電撃](http://dengeki.com/comics/)
 - [芳文社](http://houbunsha.co.jp)
 - [一迅社WEB](http://www.ichijinsha.co.jp)
+- [週刊ヤングジャンプ](https://youngjump.jp/)
 - [まんがタイムWeb](https://manga-time.com)
 - [まんがタイムきらら](http://www.dokidokivisual.com)
 - [白泉社](https://www.hakusensha.co.jp)
@@ -124,6 +140,7 @@
 - [このマンガがすごい!WEB](http://konomanga.jp)
 - [Web漫画アンテナ](http://webcomics.jp)
 - [Web漫画速報](http://webmanga.info)
+- [COMIC THEORY](http://www.funwarijump.jp)
 - [ベルアラート](https://play.google.com/store/apps/details?id=com.shopbell.bellalert) - App \*推荐\*
 - [漫画新刊情報](https://play.google.com/store/apps/details?id=manga.news.info) - App
 - [新刊ウォッチ](https://play.google.com/store/apps/details?id=com.straycatapp.newbook_watch) - App
