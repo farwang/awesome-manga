@@ -9,8 +9,8 @@
   - [日本代购](#日本代购)
 - [情报](#情报)
   - [数据库](#数据库)
-- [投稿](#投稿)
 - [免费](#免费)
+- [漫画创作](#漫画创作)
 
 ## 在线阅读
 
@@ -128,6 +128,20 @@ https://www.zhihu.com/question/264488531/answer/768877164)
 
 ## 情报
 
+- [マンバ](https://manba.co.jp/) \*推荐\*
+  - [新连载](https://manba.co.jp/new_series)
+  - [新刊](https://manba.co.jp/new_books)
+- [COMIC THEORY](http://www.funwarijump.jp)
+- [comicspace](https://media.comicspace.jp/)
+- [Web漫画アンテナ](http://webcomics.jp)
+- [Web漫画速報](http://webmanga.info)
+- [ベルアラート](https://play.google.com/store/apps/details?id=com.shopbell.bellalert) - App \*推荐\*
+- [漫画新刊情報](https://play.google.com/store/apps/details?id=manga.news.info) - App
+- [新刊ウォッチ](https://play.google.com/store/apps/details?id=com.straycatapp.newbook_watch) - App
+- [蔵書マネージャー](https://play.google.com/store/apps/details?id=com.bsy_web.bookmanager) - App
+
+#### 官方
+
 - [SMANGA 集英社](http://www.s-manga.net)
 - [講談社コミックプラス](http://kc.kodansha.co.jp)
 - [芳文社](http://houbunsha.co.jp)
@@ -140,13 +154,6 @@ https://www.zhihu.com/question/264488531/answer/768877164)
 - [ASCII MEDIA WORKS](https://asciimw.kadokawa.co.jp/)
 - [小学館](https://www.shogakukan.co.jp/comics)
 - [このマンガがすごい!WEB](http://konomanga.jp)
-- [Web漫画アンテナ](http://webcomics.jp)
-- [Web漫画速報](http://webmanga.info)
-- [COMIC THEORY](http://www.funwarijump.jp)
-- [ベルアラート](https://play.google.com/store/apps/details?id=com.shopbell.bellalert) - App \*推荐\*
-- [漫画新刊情報](https://play.google.com/store/apps/details?id=manga.news.info) - App
-- [新刊ウォッチ](https://play.google.com/store/apps/details?id=com.straycatapp.newbook_watch) - App
-- [蔵書マネージャー](https://play.google.com/store/apps/details?id=com.bsy_web.bookmanager) - App
 
 ### 数据库
 
@@ -155,12 +162,6 @@ https://www.zhihu.com/question/264488531/answer/768877164)
 - [メディア芸術データベース](https://mediaarts-db.bunka.go.jp)
 - [漫画ランキング](https://www.mangazenkan.com/ranking/)
 - [年代流行](https://nendai-ryuukou.com/comic.html)
-
-## 投稿
-
-- [マンナビ](https://mannavi.net/) - 漫画新人投稿导航
-- [ジャンプ ルーキー!](https://rookie.shonenjump.com/) - Jump Rookie
-<!-- TODO The Road to Mangaka -->
 
 ### 免费
 
@@ -177,6 +178,17 @@ https://www.zhihu.com/question/264488531/answer/768877164)
 - [木薯牛网盘中转站](https://www.mushuniu.com/files) - 网盘中转站 \*推荐\*
 - [思飞网盘中转站](http://www.dsphere.info) - 网盘中转站
 - [免费网盘中转站整理](http://usepremium.blinkweb.com)
+
+## 漫画创作
+<!-- TODO The Road to Mangaka -->
+
+- [浦泽直树《漫勉》](https://www.bilibili.com/video/BV18W411s7uA)
+- [Jump流 漫画家作画视频合集](https://www.bilibili.com/video/BV1Rx411m7Xf)
+
+### 投稿
+
+- [マンナビ](https://mannavi.net/) - 漫画新人投稿导航
+- [ジャンプ ルーキー!](https://rookie.shonenjump.com/) - Jump Rookie
 
 #### 已失效
 
