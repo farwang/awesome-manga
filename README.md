@@ -131,10 +131,11 @@ https://www.zhihu.com/question/264488531/answer/768877164)
 - [マンバ](https://manba.co.jp/) \*推荐\*
   - [新连载](https://manba.co.jp/new_series)
   - [新刊](https://manba.co.jp/new_books)
-- [COMIC THEORY](http://www.funwarijump.jp)
+- [ebook japan 新刊](https://ebookjapan.yahoo.co.jp/search/recent/)
 - [comicspace](https://media.comicspace.jp/)
 - [Web漫画アンテナ](http://webcomics.jp)
 - [Web漫画速報](http://webmanga.info)
+- [COMIC THEORY](http://www.funwarijump.jp)
 - [ベルアラート](https://play.google.com/store/apps/details?id=com.shopbell.bellalert) - App \*推荐\*
 - [漫画新刊情報](https://play.google.com/store/apps/details?id=manga.news.info) - App
 - [新刊ウォッチ](https://play.google.com/store/apps/details?id=com.straycatapp.newbook_watch) - App
